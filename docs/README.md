@@ -10,7 +10,7 @@ During execution, teams track work on project boards, use small pull requests, r
 
 Release management confirms acceptance criteria, CI and security checks, release notes, rollback planning, staging validation, production verification, and stakeholder announcements. After sprints, releases, milestones, or incidents, retrospectives capture lessons learned and convert them into owned action items that support continuous improvement.
 
-Key roles include Project Managers, Product Managers, Developers, QA/Testing, and stakeholders. Together they clarify ownership, keep communication predictable through standups, syncs, reviews, and status updates, and maintain quality through acceptance criteria, Definition of Done, automated checks, smoke tests, security scanning, and manual QA when needed.
+Key roles include Project Managers, Product Managers, Developers, QA/Testing, and stakeholders. Together they clarify ownership, keep communication predictable through standups, syncs, reviews, and status updates, and maintain quality through practices described in these docs, including acceptance criteria, Definition of Done, automated checks, smoke tests, security scanning, and manual QA when needed.
 
 ## Documentation Index
 
